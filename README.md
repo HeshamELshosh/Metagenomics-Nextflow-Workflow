@@ -10,7 +10,7 @@ This Nextflow script performs metagenome assembly using the MEGAHIT assembler an
 
 FASTQ data files used in this task downloaded in zipped format `.gz` as following:
 
-`wget` https://sra-pub-src-1.s3.amazonaws.com/SRR25621597/122_1.fastq.gz.1
+`wget` https://sra-pub-src-1.s3.amazonaws.com/SRR25621597/122_1.fastq.gz.1 <br>
 `wget` https://sra-pub-src-1.s3.amazonaws.com/SRR25621597/122_2.fastq.gz.1
  
 
