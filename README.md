@@ -12,11 +12,6 @@ FASTQ data files used in this task downloaded in zipped format `.gz` as followin
 
 `wget` https://sra-pub-src-1.s3.amazonaws.com/SRR25621597/122_1.fastq.gz.1 <br>
 `wget` https://sra-pub-src-1.s3.amazonaws.com/SRR25621597/122_2.fastq.gz.1
- 
-
-1. Visit [source link](link) to access the data.
-2. [Add any additional steps if needed.]
-
 
 ### Parameters
 
