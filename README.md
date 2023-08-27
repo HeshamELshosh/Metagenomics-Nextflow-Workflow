@@ -51,6 +51,8 @@ You also need to ensure that you have the necessary permissions to run Docker wi
 2. Activate the changes by executing: 
 `newgrp docker`
 
+Please make sure that FASTQ files are within the same directory where the nextflow run command is executed, typically in the directory containing the Nextflow script (metagenomics_workflow.nf).
+
 ## Output
 
 After running the workflow, you will find the following output directory: 
