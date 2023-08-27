@@ -60,12 +60,13 @@ You also need to ensure that you have the necessary permissions to run Docker wi
 
 ## Output
 
-After running the workflow, you will find the following output directories: 
+After running the workflow, you will find the following output directory: 
 
-- Megahit output files: `megahit_output/*` including final.contigs.fa file that contains contigs to be processed by MetaBAT.
-- MetaBAT output files: `metabat_output/*` that contains contigs binning fasta files. 
+- megahit_output`directory including:
+  1. final.contigs.fa file that contains contigs to be processed by MetaBAT and all other files generated using Megahit.
+  2. MetaBAT output files that contain contigs binning fasta files generated using MetaBAT. 
 
 ## Important Notes
 
 - Ensure that input FASTQ files are correctly specified using the `--reads_1` and `--reads_2` parameters.
-- The workflow creates output directories for both Megahit and MetaBAT processes.
+- The workflow creates output directory for both Megahit and MetaBAT processes.
