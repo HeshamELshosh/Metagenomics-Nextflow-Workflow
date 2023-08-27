@@ -17,8 +17,6 @@ FASTQ data files used in this task downloaded in zipped format `.gz` as followin
 1. Visit [source link](link) to access the data.
 2. [Add any additional steps if needed.]
 
-[Optional: If the data is hosted on a specific platform, provide information on how to create an account or access the data through the platform.]
-
 
 ### Parameters
 
